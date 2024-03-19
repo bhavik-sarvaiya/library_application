@@ -31,8 +31,8 @@ What things you need to install the software:
 A step-by-step series of examples that tell you how to get a development environment running.
 
 1. Clone the repository:
-   ```sh
-   git clone https://your-repository-url.git
+   sh
+   git clone https://github.com/bhavik-sarvaiya/library_application.git
 
 2. Navigate to the project directory:
 	cd library-application
@@ -45,11 +45,10 @@ A step-by-step series of examples that tell you how to get a development environ
 	
 The application should now be running on http://localhost:8080.
 
-#Accessing Swagger UI
-You can access the Swagger UI to interact with the API at:
-	http://localhost:8080/swagger-ui.html
+### Accessing Swagger UI
+You can access the Swagger UI to interact with the API at: http://localhost:8080/swagger-ui.html
 	
-#Built With
+### Built With
 Spring Boot - The web framework used
 Maven - Dependency Management
 Swagger - Used to generate API documentation
