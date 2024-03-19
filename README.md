@@ -2,11 +2,11 @@
 
 This application should provide a REST API that satisfies the following requirements.
 
-a) returns all users who have actually borrowed at least one book
-b) returns all non-terminated users who have not currently borrowed anything
-c) returns all users who have borrowed a book on a given date
-d) returns all books borrowed by a given user in a given date range
-e) returns all available (not borrowed) books
+- returns all users who have actually borrowed at least one book
+- returns all non-terminated users who have not currently borrowed anything
+- returns all users who have borrowed a book on a given date
+- returns all books borrowed by a given user in a given date range
+- returns all available (not borrowed) books
 
 ## Features
 
